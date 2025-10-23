@@ -4,7 +4,12 @@
 **Skills:** NLP analysis, Data visualization  
 **Deployment:** Streamlit Cloud
 
+
+## 🔴 Live Demo
+https://ai-review-sentimental-dashboard.streamlit.app/
+
 [![Dashboard preview](dashboard.png)](https://ai-review-sentimental-dashboard.streamlit.app/)
+click on image to see live demo
 
 An end‑to‑end Streamlit app that ingests a CSV of reviews, runs sentiment analysis (VADER by default; optional Transformers), and visualizes insights with Plotly.
 
