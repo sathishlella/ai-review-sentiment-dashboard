@@ -3,7 +3,8 @@
 **Category:** Data + AI  
 **Skills:** NLP analysis, Data visualization  
 **Deployment:** Streamlit Cloud
-[![Dashboard preview](dashboard.png)]([https://huggingface.co/spaces/SathishLella/genai-pdf-qa-chatbot-groq](https://ai-review-sentimental-dashboard.streamlit.app/))
+
+[![Dashboard preview](dashboard.png)](https://ai-review-sentimental-dashboard.streamlit.app/)
 
 An end‑to‑end Streamlit app that ingests a CSV of reviews, runs sentiment analysis (VADER by default; optional Transformers), and visualizes insights with Plotly.
 
